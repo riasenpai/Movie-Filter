@@ -1,6 +1,4 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### Find the backend here: https://github.com/riasenpai/Movie-Filter-Backend
 ## Available Scripts
 
