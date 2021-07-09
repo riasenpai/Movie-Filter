@@ -1,0 +1,36 @@
+.heading{
+    font-family: sans-serif;
+}
+button{
+    background-color: #B0343C;
+    border: none;
+    font-size: 20px;
+    color: #FFFFFF;
+    align-self: center;
+    width: 130px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    height: 40px    ;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+    
+}
+.selectionBar{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.movieContainer{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}

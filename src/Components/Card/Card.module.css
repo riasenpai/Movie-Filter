@@ -1,0 +1,20 @@
+.heading {
+    height: 100%;
+    border: 1px solid red;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+.movieCard{
+    margin-top: 3rem;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    border: 1px red solid;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+.cardCon{
+    padding: 2px 16px;
+}
